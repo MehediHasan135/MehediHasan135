@@ -14,7 +14,7 @@
 ## 🧠 About Me
 
 - 📚 Currently learning **Mobile App Architecture (BLoC, Clean Architecture)** & **Machine Learning Algorithms**
-- 🤖 Passionate about **Artificial Intelligence** and **Machine Learning**
+- 🤖 Passionate about **Mobile App Development**, **Artificial Intelligence** and **Machine Learning**
 - 🤝 Open to collaborating on **Open-Source Projects**, **AI Experiments**, and **App Prototypes**
 - 📩 Contact me: **mehedihasan126708@gmail.com**
 - 💬 Motto: _**"In every bug, a lesson; in every fix, growth."**_
