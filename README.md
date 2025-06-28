@@ -79,6 +79,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehediHasan135&layout=compact&theme=algolia&hide_border=true&bg_color=000000" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MehediHasan135&theme=algolia&hide_border=true&background=000000" alt="GitHub Streak Stats" />
+</p>
+
+
+
 ---
 
 ## 🔗 Connect with Me
@@ -88,6 +94,33 @@
   <a href="https://www.instagram.com/mdmahedi48/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
 </p>
 
----
+<!-- ## 📊 GitHub Activity & Achievements
 
+
+<p align="center">
+  <a href="https://github.com/MehediHasan135">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" height="40">
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://archiveprogram.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40">
+  </a>
+  <a href="https://docs.github.com/en/developers">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="40" height="40">
+  </a>
+  <a href="https://github.com/pricing">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40">
+  </a>
+  <a href="https://stars.github.com/">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="35" height="35">
+  </a>
+  <a href="https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors">
+    <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="35" height="35">
+  </a>
+</p> -->
+
+---
 <h3 align="center">🔥 Keep Pushing Boundaries 🔥</h3>
